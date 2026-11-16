@@ -2,6 +2,8 @@
 
 **Healthcare Conversion Intelligence.** Understand patient journeys, find growth opportunities, take smarter action.
 
+Live Demo - https://carepath-ai-ec4td6nhykrweapnjpkiz8.streamlit.app/
+
 > **Disclaimer**
 > Independent personal portfolio project. Uses synthetic demonstration data only.
 > Not intended for clinical decisions or processing real patient information.
